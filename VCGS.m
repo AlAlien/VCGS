@@ -1,7 +1,7 @@
 function sim = VCGS(image1, image2)
 % ========================================================================
-% VCGS Index with automatic downsampling, Version 1.0£¬2020.4.21
-% Copyright(c) 2019 Chenyang Shi£¬Yandan Lin
+% VCGS Index with automatic downsampling, Version 1.0Â£Â¬2020.4.21
+% Copyright(c) 2019 Chenyang ShiÂ£Â¬Yandan Lin
 % All Rights Reserved.
 %
 % ----------------------------------------------------------------------
@@ -15,8 +15,9 @@ function sim = VCGS(image1, image2)
 % this software for any purpose. It is provided "as is" without express
 % or implied warranty.
 %----------------------------------------------------------------------
-% 
-% 
+% Please refer to the following paper:
+% C. Shi and Y. Lin, "Full Reference Image Quality Assessment Based on Visual Salience With Color Appearance 
+% and Gradient Similarity," in IEEE Access, vol. 8, pp. 97310-97320, 2020, doi: 10.1109/ACCESS.2020.2995420.
 %----------------------------------------------------------------------
 %
 %Input : (1) image1: the first image being compared, which is a RGB image
